@@ -1,0 +1,177 @@
+{
+  "Backend": {
+    "title": "Backend Developer",
+    "BackendjobSummary": "I' am Having 3 years of experience as a backend developer in Node.js, I have honed my skills in crafting robust and scalable solutions to drive the functionality of web applications.I specialize in designing and implementing server-side logic using cutting-edge programming languages as Node.js and Throughout my career, I have extensively worked with popular frameworks Express.js, leveraging their capabilities to accelerate development timelines while maintaining code quality.I have a strong command over databases, with expertise in both SQL and NoSQL databases, ensuring optimal data management and retrieval.and My problem-solving skills have been refined through addressing complex challenges in backend development. Whether it's resolving technical issues or optimizing code for efficiency, I approach each task with a meticulous mindset and a commitment to finding elegant solutions."
+  },
+  "Frontend": {
+    "title": "Frontend Developer",
+    "FrontebdjobSummary": " I bring more than two years of hands-on experience in web development, specializing in the creation of captivating and responsive user interfaces. My passion lies in leveraging the power of the React.js library to craft dynamic and user-friendly applications.Proficient in developing robust and scalable web applications using React.js and skilled in integrating RESTful APIs and third-party services to enhance the functionality of web applications. I have a deep understanding of React concepts such as components, state, props, hooks, and context API and experienced in using state management libraries like Redux to efficiently manage the state of complex applications, ensuring smooth data flow and maintainability."
+  },
+  "personalDetails": [
+    {
+      "label": "Name",
+      "value": "Robin Singhal"
+    },
+    {
+      "label": "Age",
+      "value": "26"
+    },
+    {
+      "label": "Address",
+      "value": "India"
+    },
+    {
+      "label": "Email",
+      "value": "RobinSinghal997@gmail.com"
+    },
+    {
+      "label": "skypeId",
+      "value": ""
+    },
+    {
+      "label": "teamsId",
+      "value": ""
+    }
+  ],
+  "skillsData": [
+    {
+      "label": "FRONT END",
+      "data": [
+        {
+          "skillName": "HTML",
+          "percentage": "90"
+        },
+        {
+          "skillName": "CSS",
+          "percentage": "70"
+        },
+        {
+          "skillName": "JAVASCRIPT",
+          "percentage": "80"
+        },
+        {
+          "skillName": "ReactJs",
+          "percentage": "80"
+        },
+        {
+          "skillName": "Redux",
+          "percentage": "80"
+        },
+        {
+          "skillName": "State Management",
+          "percentage": "80"
+        },
+        {
+          "skillName": "RESTful API Integration",
+          "percentage": "80"
+        }
+      ]
+    },
+    {
+      "label": "BACKEND",
+      "data": [
+        {
+          "skillName": "Node.Js",
+          "percentage": "80"
+        },
+        {
+          "skillName": "Express",
+          "percentage": "80"
+        },
+        {
+          "skillName": "Middleware",
+          "percentage": "80"
+        },
+        {
+          "skillName": "WebSockets",
+          "percentage": "70"
+        },
+        {
+          "skillName": "Redis",
+          "percentage": "70"
+        },
+        {
+          "skillName": "Authentication",
+          "percentage": "80"
+        },
+        {
+          "skillName": "Serverless Architecture",
+          "percentage": "50"
+        }
+      ]
+    },
+    {
+      "label": "DATABASES",
+      "data": [
+        {
+          "skillName": "SQL",
+          "percentage": "70"
+        },
+        {
+          "skillName": "MONGO DB",
+          "percentage": "80"
+        },
+        {
+          "skillName": "ORACLE",
+          "percentage": "50"
+        },
+        {
+          "skillName": "postgresql",
+          "percentage": "50"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Resume Search",
+      "subTitle": "Backend Developent",
+      "description": "Build a comprehensive and visually appealing resume to showcase your skills, experience, and achievements.Maximize your exposure to potential employers and clients by making your resume easily searchable.Clients can efficiently search for developers and testers based on specific criteria such as skills,experience, and project requirements.",
+      "duration":"August 2020 to October 2021"
+    },
+    {
+      "title": "I Quanta Mobile App",
+      "subTitle": "Node js and Microservices",
+      "description": "Spearheaded the conceptualization, design, and launch of a mobile application dedicated to academic studies, revolutionizing the learning experience for users Successfully integrated features akin to social media platforms like Facebook, fostering a collaborative and engaging community within the application.Oversaw the inclusion of specialized courses, including CAT, GMAT, JEE, and others,ensuring a comprehensive learning environment for a broad user base",
+      "duration":"October 2021 to June 2022"
+    },
+    {
+      "title": "E-commerce web app",
+      "subTitle": "Full Stack using Node.Js and React.Js",
+      "description": "Spearheaded the conceptualization, design, and launch of a mobile application dedicated to academic studies, revolutionizing the learning experience for users Successfully integrated features akin to social media platforms like Facebook, fostering a collaborative and engaging community within the application.Oversaw the inclusion of specialized courses, including CAT, GMAT, JEE, and others,ensuring a comprehensive learning environment for a broad user base",
+      "duration":" Jully 2022 to January 2023"
+    },
+    {
+      "title": "Course Bundler web App",
+      "subTitle": "Full Stack using Node.Js and React.Js",
+      "description": "Spearheaded the development of an online coaching center platform Implemented video lecture posting functionality for teachers and seamless viewing for users.Designed and integrated a subscription management system allowing teachers to set subscription amounts.Successfully integrated secure payment gateways for user subscriptions Developed a robust e-learning application with a focus on interactive content delivery.",
+      "duration":"Feburary 2023 to December 2023"
+    }
+  ],
+  "education": [
+    {
+      "title": "Secondary",
+      "subTitle": "DR kn Modi Science and Commerce College",
+      "description": "10th Grade ",
+      "duration":"2012 to 2013"
+    },
+    {
+      "title": "Higher Secondary",
+      "subTitle": "DR kn Modi Science and Commerce College",
+      "description": "12th Grade in Math",
+      "duration":"2014 to 2015"
+    },
+    {
+      "title": "BCA",
+      "subTitle": "Chaudhary charan singh University",
+      "description": "Bachelor of Computer application",
+      "duration":"2016 to 2019"
+    },
+    {
+      "title": "MCA",
+      "subTitle": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+      "description": "Master of Computer Application",
+      "duration":"2019 to 2021"
+    }
+  ]
+}
