@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaBars } from "react-icons/fa";
 import { HiX } from "react-icons/hi";
 import { Link } from "react-router-dom";
+import imgage from '../../images/portFolio.png'
 import "./styles.scss";
 const data = [
   {
@@ -45,10 +46,13 @@ const Navbar = () => {
               fontSize: "25px",
               textDecoration: "none",
               fontStyle: "italic",
+              display:"flex",
+              alignItems:"center",
             }}
             to={"/"}
             className="navbar__container__logo"
           >
+            <img style={{marginRight:"20px", backgroundColor:"white"}} src={imgage} alt="portFolioimage" height={"40px"} width={"35px"}/>
             <p>Robin Singhal </p>
           </Link>
         </div>
@@ -56,7 +60,7 @@ const Navbar = () => {
           className={`navbar__container__menu ${toggleIcon ? "active" : ""} `}
         >
           {data.map((item, key) => (
-            <li key={key} className="navbar__container__menu__item">
+            <li onClick={handleToggleIcon} key={key} className="navbar__container__menu__item">
               <Link
                 className="navbar__container__menu__item__links"
                 to={item.to}
