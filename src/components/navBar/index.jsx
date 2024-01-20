@@ -45,14 +45,14 @@ const Navbar = () => {
             style={{
               fontSize: "25px",
               textDecoration: "none",
-              fontStyle: "italic",
+              // fontStyle: "italic",
               display:"flex",
               alignItems:"center",
             }}
             to={"/"}
             className="navbar__container__logo"
           >
-            <img style={{marginRight:"20px", backgroundColor:"white"}} src={imgage} alt="portFolioimage" height={"40px"} width={"35px"}/>
+            <img style={{marginRight:"30px"}} src={imgage} alt="portFolioimage" height={"30px"} width={"25px"}/>
             <p>Robin Singhal </p>
           </Link>
         </div>
