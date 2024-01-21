@@ -1,9 +1,12 @@
 .about {
+  position: relative;
+  z-index: -1;
   &__content {
     display: flex;
     gap: 20px;
     padding: 20px;
     width: 100%;
+    
 
     &__personalWrapper,
     &__servicesWrapper {
